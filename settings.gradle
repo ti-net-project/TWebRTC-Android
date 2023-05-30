@@ -1,0 +1,3 @@
+rootProject.name = "TWebRTC-Android"
+include ':rtc_aar'
+include ':rtc_publish'
